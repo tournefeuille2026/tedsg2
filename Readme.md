@@ -5,13 +5,14 @@ https://wims.univ-amu.fr/WIMs/wims.cgi?module=adm/class/classes&lang=fr&type=par
   
 Sinon, aller sur https://wims.univ-amu.fr, puis cliquer "élèves",
 puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cliquer "entrer" sur le groupe de classes de la bonne année. Puis s'inscrire ou aller travailler.  
-  
+# Le cours de soutien de mercredi 12-13h a été confirmé.(Reste à déterminer la salle.)
+
 # Travail à faire : voir le CdT de wims pour précisions
-## Pour lundi :
+## Pour lundi 14/09:
 * fiche "composée et dérivée" de wims exo 1à 10 * 
 * exercices sur la fiche d'exercices (sur ce github) 1 et 2 (dérivées de composées)
 
-## Pour vendredi 11/9
+## Pour vendredi 11/9:
 ### exercices 1 et 2 de la fiche derivée0.pdf sur ce github
 ### finir les composées de fonctions (voir doc fonctions sur github)
 ### Etudier les variations de $f(x)=x+2sin(x)$
