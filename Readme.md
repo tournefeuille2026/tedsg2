@@ -8,6 +8,10 @@ puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cli
 # Le cours de soutien de mercredi 12-13h a été confirmé.(Reste à déterminer la salle.)
 
 # Travail à faire : voir le CdT de wims pour précisions
+## Pour mecredi 16/09
+s'avancer pour vendredi : fiches wims+ rédiger sur feuille exercices : fiche dérivée et composée No7
+Fiche 'exo convex' (répertoire convexité) étude des variations+ convexité de au moins 2 fonctions
+
 ## Pour lundi 14/09:
 * fiche "composée et dérivée" de wims exo 1à 10 * 
 * exercices sur la fiche d'exercices (sur ce github) 1 et 2 (dérivées de composées)
