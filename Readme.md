@@ -5,7 +5,7 @@ https://wims.univ-amu.fr/WIMs/wims.cgi?module=adm/class/classes&lang=fr&type=par
   
 Sinon, aller sur https://wims.univ-amu.fr, puis cliquer "élèves",
 puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cliquer "entrer" sur le groupe de classes de la bonne année. Puis s'inscrire ou aller travailler.  
-# Le cours de soutien de mercredi 12-13h a été confirmé.(Reste à déterminer la salle.)
+# Le cours de soutien de mercredi est confirmé de 13-14h salle 130
 
 # Travail à faire : voir le CdT de wims pour précisions
 ## Pour mecredi 16/09
