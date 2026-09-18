@@ -6,7 +6,7 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 
 # Travail à faire : voir le CdT de wims pour précisions
 ## Pour lundi 21/09
-* A] Sur la fiche d'exercices dérivées et convexité : exercice No 4 (pour la question 2a) avec ln, admettre le résultat, en considérant ln(0?005) comme un certain nombre. 
+* A] Sur la fiche d'exercices dérivées et convexité : exercice No 4 (pour la question 2a) avec ln, admettre le résultat, en considérant ln(0.005) comme un certain nombre. 
   
 * B] wims 
 Sequence dérivées:
