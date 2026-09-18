@@ -16,7 +16,7 @@ rappel pour ceux qui n'ont pas eu le temps
 fiche wims Dérivées et tangentes, + Opération et composition 1 à 10
 Sequence "Trigonométrie"
 =======================
-"fonctions sinus et cosinus" exercices 1 à 10.
+Fiche "fonctions sinus et cosinus".
 
 
 ## Pour mecredi 16/09
