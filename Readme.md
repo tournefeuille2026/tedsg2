@@ -1,16 +1,30 @@
 ### wims:
-https://wims.univ-amu.fr/WIMs/wims.cgi?module=adm/class/classes&lang=fr&type=participant&class=2961102/3
+https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=authparticipant&class=2961102/3&subclass=yes
  permet de s'inscrire dans une classe et/ou d'y entrer
 
 # Les documents pour l'oral de vendredi sont dans le répertoire 'oral'
 
 # Travail à faire : voir le CdT de wims pour précisions
+## Pour lundi 21/09
+* A] Sur la fiche d'exercices dérivées et convexité : exercice No 4 (pour la question 2a) avec ln, admettre le résultat, en considérant ln(0?005) comme un certain nombre. 
+  
+* B] wims 
+Sequence dérivées:
+===============
+fiche wims "dérivée et variation" en entier
+rappel pour ceux qui n'ont pas eu le temps
+fiche wims Dérivées et tangentes, + Opération et composition 1 à 10
+Sequence "Trigonométrie"
+=======================
+"fonctions sinus et cosinus" exercices 1 à 10.
+
+
 ## Pour mecredi 16/09
 s'avancer pour vendredi : fiches wims+ rédiger sur feuille exercices : fiche dérivée et composée No7
 Fiche 'exo convex' (répertoire convexité) étude des variations+ convexité de au moins 2 fonctions
 
 ## Pour lundi 14/09:
-* fiche "composée et dérivée" de wims exo 1à 10 * 
+* fiche "composée et dérivée" de wims exo 1à 10 *
 * exercices sur la fiche d'exercices (sur ce github) 1 et 2 (dérivées de composées)
 
 ## Pour vendredi 11/9:
