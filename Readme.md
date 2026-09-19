@@ -13,6 +13,8 @@ Oral : inégalité arithmético-géométrique
 réviser : DS
 
 ## Pour lundi 21/09
+On commencera par étudier les variations de $f(x)=sin(x)-\frac{1}{2}cos (2x)$
+
 * A] Sur la fiche d'exercices dérivées et convexité : exercice No 4 (pour la question 2a) avec ln, admettre le résultat, en considérant ln(0.005) comme un certain nombre. 
   
 * B] wims 
