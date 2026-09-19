@@ -5,6 +5,13 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 # Les documents pour l'oral de vendredi sont dans le répertoire 'oral'
 
 # Travail à faire : voir le CdT de wims pour précisions
+
+## Pour vendredi 26
+Oral : inégalité arithmético-géométrique
+
+## pour mercredi 24
+réviser : DS
+
 ## Pour lundi 21/09
 * A] Sur la fiche d'exercices dérivées et convexité : exercice No 4 (pour la question 2a) avec ln, admettre le résultat, en considérant ln(0.005) comme un certain nombre. 
   
@@ -15,7 +22,6 @@ fiche wims "dérivée et variation" en entier
 rappel pour ceux qui n'ont pas eu le temps
 fiche wims Dérivées et tangentes, + Opération et composition 1 à 10
 
-### Nouvelle fiche d'entrainement : fiche "dérivées et variations"
 
 Sequence "Trigonométrie"
 =======================
