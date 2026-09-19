@@ -14,9 +14,13 @@ Sequence dérivées:
 fiche wims "dérivée et variation" en entier
 rappel pour ceux qui n'ont pas eu le temps
 fiche wims Dérivées et tangentes, + Opération et composition 1 à 10
+
+### Nouvelle fiche d'entrainement : fiche "dérivées et variations"
+
 Sequence "Trigonométrie"
 =======================
 Fiche "fonctions sinus et cosinus".
+
 
 
 ## Pour mecredi 16/09
