@@ -27,7 +27,7 @@ fiche wims Dérivées et tangentes, + Opération et composition 1 à 10
 
 Sequence "Trigonométrie"
 
-Fiche "fonctions sinus et cosinus".
+Fiche "fonctions sinus et cosinus" pour ceux qui ne l'ont pas fait.
 
 
 
