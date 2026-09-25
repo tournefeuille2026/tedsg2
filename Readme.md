@@ -6,7 +6,18 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 
 # Travail à faire : voir le CdT de wims pour précisions
 
-## Pour vendredi 26
+## Pour mercredi 30/10
+Rédiger et rendre 3 exercices parmi les 4 premiers de la fiche polycopiée "récurrence".
+
+
+## Pour lundi 28/09
+Wims fiche "suites révision-récurrences"
+Sur la première fiche d'exercice:
+Exercice 8
+
+
+
+## Pour vendredi 26 reporté à la semaine suivante
 Oral : inégalité arithmético-géométrique
 
 ## pour mercredi 24
