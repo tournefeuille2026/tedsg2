@@ -61,8 +61,8 @@ $$f(\lambda_1 x_1 + \lambda_2 x_2) \leq \lambda_1 f(x_1) + \lambda_2 f(x_2)$$
 
 **On veut montrer :** pour $n+1$ points $x_1,\dots,x_{n+1}$ et des poids $\lambda_1,\dots,\lambda_{n+1} > 0$ de somme $1$.
 
-**Astuce clé :** isoler le dernier point. Posons
-$$S = \sum_{i=1}^{n} \lambda_i x_i, \qquad \Lambda = \sum_{i=1}^{n} \lambda_i = 1 - \lambda_{n+1}$$
+**Astuce :** isoler le dernier point. Posons
+$S = \sum_{i=1}^{n} \lambda_i x_i, \qquad \Lambda = \sum_{i=1}^{n} \lambda_i = 1 - \lambda_{n+1}$
 
 On peut alors écrire :
 $$\sum_{i=1}^{n+1} \lambda_i x_i = \Lambda \cdot \underbrace{\left(\sum_{i=1}^{n} \frac{\lambda_i}{\Lambda} x_i\right)}_{=\, y} + \lambda_{n+1} x_{n+1}$$
