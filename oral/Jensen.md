@@ -67,6 +67,7 @@ $S = \sum_{i=1}^{n} \lambda_i x_i, \qquad \Lambda = \sum_{i=1}^{n} \lambda_i = 1
 On peut alors écrire :
 $\sum_{i=1}^{n+1} \lambda_i x_i = \Lambda \cdot \left(\sum_{i=1}^{n} \frac{\lambda_i} {\Lambda} x_i\right ) + \lambda_{n+1} x_{n+1}$
 
+Et on pose $y=\left(\sum_{i=1}^{n} \frac{\lambda_i} {\Lambda} x_i\right )$
 Les coefficients $\frac{\lambda_i}{\Lambda}$ sont positifs et de somme $1$, donc $y \in I$ (car $I$ est un intervalle, stable par combinaison convexe).
 
 **Étape 1 — convexité à 2 points :**
