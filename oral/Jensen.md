@@ -73,7 +73,7 @@ Les coefficients $\frac{\lambda_i}{\Lambda}$ sont positifs et de somme $1$, donc
 **Étape 1 — convexité à 2 points :**
 On utilise $\Lambda+\lambda_{n+1}=1$
 
-$$f\left(\Lambda\, y + \lambda_{n+1} x_{n+1}\right) \leq \Lambda f(y) + \lambda_{n+1} f(x_{n+1})$$
+$$f\left(\Lambda y + \lambda_{n+1} x_{n+1}\right) \leq \Lambda f(y) + \lambda_{n+1} f(x_{n+1})$$
 
 **Étape 2 — hypothèse de récurrence appliquée à $y$ :**
 $$f(y) = f\left(\sum_{i=1}^{n} \frac{\lambda_i}{\Lambda} x_i\right) \leq \sum_{i=1}^{n} \frac{\lambda_i}{\Lambda} f(x_i)$$
@@ -164,7 +164,7 @@ L'idée naturelle : **remplacer la somme par une intégrale**. Les poids $\lambd
 Soit $f : I \to \mathbb{R}$ **convexe** sur un intervalle $I$, et soit $g : [a,b] \to I$ une fonction **intégrable**. 
 
 Alors :
-$$\boxed{f\left(\frac{1}{b-a}\int_a^b g(t)\,dt\right) \leq \frac{1}{b-a}\int_a^b f(g(t))\,dt}$$
+$$\boxed{f\left(\frac{1}{b-a}\int_a^b g(t)dt\right) \leq \frac{1}{b-a}\int_a^b f(g(t))dt}$$
 
 
 > **Traduction en mots :** « l'image de la moyenne est inférieure à la moyenne des images ».
@@ -186,14 +186,14 @@ C'est la **même inégalité**, mais écrite avec l'espérance. La version inté
 La preuve rigoureuse dépasse le cadre de Terminale, mais l'**idée** est simple et peut être présentée :
 
 1. **Approximation par des sommes de Riemann.** On découpe $[a,b]$ en $n$ sous-intervalles de largeur $\Delta t = \frac{b-a}{n}$. On pose
-$$x_i = g(t_i), \qquad \lambda_i = p(t_i)\,\Delta t.$$
+$$x_i = g(t_i), \qquad \lambda_i = p(t_i)\Delta t.$$
 Les $\lambda_i$ sont positifs et de somme $ 1$.
 
 2. **Application de Jensen discret** à ces $n$ points :
 $$f\left(\sum_{i=1}^n \lambda_i x_i\right) \leq \sum_{i=1}^n \lambda_i f(x_i).$$
 
 3. **Passage à la limite** $n \to +\infty$ : les sommes de Riemann convergent vers les intégrales, et la continuité de $f$ permet de passer à la limite :
-$$f\left(\int_a^b g(t)\,dt\right) \leq \int_a^b f(g(t))\,dt. \qquad \blacksquare$$
+$$f\left(\int_a^b g(t)dt\right) \leq \int_a^b f(g(t))dt. \qquad \blacksquare$$
 
 ---
 
@@ -203,25 +203,25 @@ $$f\left(\int_a^b g(t)\,dt\right) \leq \int_a^b f(g(t))\,dt. \qquad \blacksquare
 
 Avec $f(x) = x^2$ (convexe), $p(t) = \frac{1}{b-a}$ :
 
-$$\left(\frac{1}{b-a}\int_a^b g(t)\,dt\right)^2 \leq \frac{1}{b-a}\int_a^b g(t)^2\,dt$$
+$$\left(\frac{1}{b-a}\int_a^b g(t)dt\right)^2 \leq \frac{1}{b-a}\int_a^b g(t)^2dt$$
 
 Soit :
 
-$$\left(\int_a^b g(t)\,dt\right)^2 \leq (b-a)\int_a^b g(t)^2\,dt$$
+$$\left(\int_a^b g(t)dt\right)^2 \leq (b-a)\int_a^b g(t)^2dt$$
 
 ### b) Inégalité arithmético-géométrique intégrale
 
 Avec $f(x) = -\ln x$ (convexe) et $g > 0$ :
 
-$$-\ln\left(\frac{1}{b-a}\int_a^b g(t)\,dt\right) \leq \frac{1}{b-a}\int_a^b -\ln g(t)\,dt$$
+$$-\ln\left(\frac{1}{b-a}\int_a^b g(t)dt\right) \leq \frac{1}{b-a}\int_a^b -\ln g(t)dt$$
 
 En multipliant par $-1$ :
 
-$$\ln\left(\frac{1}{b-a}\int_a^b g(t)\,dt\right) \geq \frac{1}{b-a}\int_a^b \ln g(t)\,dt$$
+$$\ln\left(\frac{1}{b-a}\int_a^b g(t)dt\right) \geq \frac{1}{b-a}\int_a^b \ln g(t)dt$$
 
 En exponentiant :
 
-$$\boxed{\frac{1}{b-a}\int_a^b g(t)\,dt \;\geq\; \exp\left(\frac{1}{b-a}\int_a^b \ln g(t)\,dt\right)}$$
+$$\boxed{\frac{1}{b-a}\int_a^b g(t)dt \;\geq\; \exp\left(\frac{1}{b-a}\int_a^b \ln g(t)dt\right)}$$
 
 La **moyenne arithmétique intégrale** majore la **moyenne géométrique intégrale**.
 
@@ -229,7 +229,7 @@ La **moyenne arithmétique intégrale** majore la **moyenne géométrique intég
 
 Pour $p, q > 1$ avec $\frac1p + \frac1q = 1$ :
 
-$$\int_a^b |g(t)h(t)|\,dt \leq \left(\int_a^b |g(t)|^p\,dt\right)^{1/p}\left(\int_a^b |h(t)|^q\,dt\right)^{1/q}$$
+$$\int_a^b |g(t)h(t)|dt \leq \left(\int_a^b |g(t)|^pdt\right)^{1/p}\left(\int_a^b |h(t)|^qdt\right)^{1/q}$$
 
 Démontrée à partir de l'IAG (donc de Jensen via $-\ln$).
 
@@ -245,11 +245,11 @@ Fondement de la **norme $L^p$** en analyse fonctionnelle.
 
 Si $f$ est convexe et $g$ continue sur $[a,b]$, il existe $c \in [a,b]$ tel que
 
-$$\frac{1}{b-a}\int_a^b g(t)\,dt = g(c).$$
+$$\frac{1}{b-a}\int_a^b g(t)dt = g(c).$$
 
 Jensen s'écrit alors :
 
-$$f(g(c)) \leq \frac{1}{b-a}\int_a^b f(g(t))\,dt.$$
+$$f(g(c)) \leq \frac{1}{b-a}\int_a^b f(g(t))dt.$$
 
 Autrement dit : **la valeur de $f$ au point moyen est un minorant de la moyenne intégrale de $f \circ g$.**
 
@@ -259,15 +259,15 @@ Autrement dit : **la valeur de $f$ au point moyen est un minorant de la moyenne 
 
 **Question.** Montrer que
 
-$$\int_0^1 e^{t^2}\,dt \geq e^{1/3}.$$
+$$\int_0^1 e^{t^2}dt \geq e^{1/3}.$$
 
 **Solution.** On applique Jensen intégral avec $f(x) = e^x$ (convexe), $g(t) = t^2$ et $p(t)=1$ sur $[0,1]$ :
 
-$$e^{\int_0^1 t^2\,dt} \leq \int_0^1 e^{t^2}\,dt.$$
+$$e^{\int_0^1 t^2dt} \leq \int_0^1 e^{t^2}dt.$$
 
-Or $\int_0^1 t^2\,dt = \frac13$. Donc :
+Or $\int_0^1 t^2dt = \frac13$. Donc :
 
-$$e^{1/3} \leq \int_0^1 e^{t^2}\,dt. \qquad \blacksquare$$
+$$e^{1/3} \leq \int_0^1 e^{t^2}dt. \qquad \blacksquare$$
 
 ---
 
@@ -276,6 +276,6 @@ $$e^{1/3} \leq \int_0^1 e^{t^2}\,dt. \qquad \blacksquare$$
 > - les poids $\lambda_i$ par une densité $p(t)$,
 > - les sommes $\sum$ par des intégrales $\int$.
 
-$$\boxed{f\left(\int p\,g\right) \leq \int p\,f(g)}$$
+$$\boxed{f\left(\int pg\right) \leq \int pf(g)}$$
 
  dès qu'il y a une fonction convexe,  et une moyenne  (finie, intégrale, probabiliste), Jensen peut s'applique.
