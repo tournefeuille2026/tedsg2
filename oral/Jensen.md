@@ -126,7 +126,7 @@ $$\exp\left(\frac{x_1+\dots+x_n}{n}\right) \leq \frac{e^{x_1}+\dots+e^{x_n}}{n}$
 
 ---
 
-### Application 4 — Inégalité de Hölder (bonus difficile)
+### Application 4 — Inégalité de Hölder (bonus très difficile)
 .
 
 ---
@@ -199,17 +199,7 @@ $$f\left(\int_a^b g(t)dt\right) \leq \int_a^b f(g(t))dt. \qquad \blacksquare$$
 
 ## 5. Applications classiques
 
-### a) Inégalité de Cauchy-Schwarz intégrale
-
-Avec $f(x) = x^2$ (convexe), $p(t) = \frac{1}{b-a}$ :
-
-$$\left(\frac{1}{b-a}\int_a^b g(t)dt\right)^2 \leq \frac{1}{b-a}\int_a^b g(t)^2dt$$
-
-Soit :
-
-$$\left(\int_a^b g(t)dt\right)^2 \leq (b-a)\int_a^b g(t)^2dt$$
-
-### b) Inégalité arithmético-géométrique intégrale
+### a) Inégalité arithmético-géométrique intégrale
 
 Avec $f(x) = -\ln x$ (convexe) et $g > 0$ :
 
@@ -224,22 +214,6 @@ En exponentiant :
 $$\boxed{\frac{1}{b-a}\int_a^b g(t)dt \;\geq\; \exp\left(\frac{1}{b-a}\int_a^b \ln g(t)dt\right)}$$
 
 La **moyenne arithmétique intégrale** majore la **moyenne géométrique intégrale**.
-
-### c) Inégalité de Hölder intégrale
-
-Pour $p, q > 1$ avec $\frac1p + \frac1q = 1$ :
-
-$$\int_a^b |g(t)h(t)|dt \leq \left(\int_a^b |g(t)|^pdt\right)^{1/p}\left(\int_a^b |h(t)|^qdt\right)^{1/q}$$
-
-Démontrée à partir de l'IAG (donc de Jensen via $-\ln$).
-
-### d) Inégalité de Minkowski intégrale
-
-$$\left(\int_a^b |g+h|^p\right)^{1/p} \leq \left(\int_a^b |g|^p\right)^{1/p} + \left(\int_a^b |h|^p\right)^{1/p}$$
-
-Fondement de la **norme $L^p$** en analyse fonctionnelle.
-
----
 
 ## 7. Lien avec la formule de la moyenne
 
