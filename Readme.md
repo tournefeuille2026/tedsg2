@@ -5,6 +5,11 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 # Les documents pour l'oral de vendredi sont dans le répertoire 'oral'
 
 # Travail à faire : voir le CdT de wims pour précisions
+## Vendredi 2/10
+Oral   
+*Inégalité de Jensen
+*Inégalité Arithmético Géométrique
+
 
 ## Pour mercredi 30/10
 Rédiger et rendre 3 exercices parmi les 4 premiers de la fiche polycopiée "récurrence".
