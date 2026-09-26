@@ -235,7 +235,7 @@ Autrement dit : **la valeur de $f$ au point moyen est un minorant de la moyenne 
 
 $$\int_0^1 e^{t^2}dt \geq e^{1/3}.$$
 
-**Solution.** On applique Jensen intégral avec $f(x) = e^x$ (convexe), $g(t) = t^2$ et $p(t)=1$ sur $[0,1]$ :
+**Solution.** On applique Jensen intégral avec $f(x) = e^x$ (convexe), $g(t) = t^2$  sur $[0,1]$ :
 
 $$e^{\int_0^1 t^2dt} \leq \int_0^1 e^{t^2}dt.$$
 
