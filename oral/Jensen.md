@@ -243,13 +243,4 @@ Or $\int_0^1 t^2dt = \frac13$. Donc :
 
 $$e^{1/3} \leq \int_0^1 e^{t^2}dt. \qquad \blacksquare$$
 
----
 
-> **Jensen intégral, c'est Jensen discret où l'on remplace :**
-> - les points $x_i$ par une fonction $g(t)$,
-> - les poids $\lambda_i$ par une densité $p(t)$,
-> - les sommes $\sum$ par des intégrales $\int$.
-
-$$\boxed{f\left(\int pg\right) \leq \int pf(g)}$$
-
- dès qu'il y a une fonction convexe,  et une moyenne  (finie, intégrale, probabiliste), Jensen peut s'applique.
