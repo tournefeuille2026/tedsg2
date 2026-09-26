@@ -14,7 +14,7 @@ démonstration avec exemples
 
 ---
 
-## 1. Introduction et intuition
+## 1. Introduction
 
 **Idée intuitive :** Pour une fonction **convexe** , comme $x^2$ ou $e^x$), la moyenne des images est **plus grande** que l'image de la moyenne.
 
@@ -26,7 +26,7 @@ Graphiquement : le point au milieu de la corde est **au-dessus** du point de la 
 
 
 
-**Théorème de Jensen (version finie) :**
+**Théorème de Jensen (version discrète finie) :**
 Soit $f$ convexe sur un intervalle $I$, $x_1,\dots,x_n \in I$ et $\lambda_1,\dots,\lambda_n > 0$ avec $\sum_{i=1}^n \lambda_i = 1$. Alors :
 
 $$\boxed{f\left(\sum_{i=1}^n \lambda_i x_i\right) \leq \sum_{i=1}^n \lambda_i f(x_i)}$$
@@ -193,7 +193,7 @@ Les $\lambda_i$ sont positifs et de somme $ 1$.
 $$f\left(\sum_{i=1}^n \lambda_i x_i\right) \leq \sum_{i=1}^n \lambda_i f(x_i).$$
 
 3. **Passage à la limite** $n \to +\infty$ : les sommes de Riemann convergent vers les intégrales, et la continuité de $f$ permet de passer à la limite :
-$$f\left(\int_a^b p(t)g(t)\,dt\right) \leq \int_a^b p(t)f(g(t))\,dt. \qquad \blacksquare$$
+$$f\left(\int_a^b p(t)g(t)\,dt\right) \leq \int_a^b f(g(t))\,dt. \qquad \blacksquare$$
 
 ---
 
