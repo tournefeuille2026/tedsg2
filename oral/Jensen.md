@@ -186,11 +186,11 @@ C'est la **même inégalité**, mais écrite avec l'espérance. La version inté
 La preuve rigoureuse dépasse le cadre de Terminale, mais l'**idée** est simple et peut être présentée :
 
 1. **Approximation par des sommes de Riemann.** On découpe $[a,b]$ en $n$ sous-intervalles de largeur $\Delta t = \frac{b-a}{n}$. On pose
-$$x_i = g(t_i), \qquad \lambda_i = p(t_i)\Delta t.$$
-Les $\lambda_i$ sont positifs et de somme $ 1$.
+$$x_i = g(t_i), \qquad \lambda_i = \Delta t=\frac{b-1}{n}.$$
+Les $\lambda_i$ sont tous égaux et positifs et de somme $ 1$.
 
 2. **Application de Jensen discret** à ces $n$ points :
-$$f\left(\sum_{i=1}^n \lambda_i x_i\right) \leq \sum_{i=1}^n \lambda_i f(x_i).$$
+$$f\left(\sum_{i=1}^n \frac{b-a}{n} x_i\right) \leq \sum_{i=1}^n \frac{b-a}{n} f(x_i).$$
 
 3. **Passage à la limite** $n \to +\infty$ : les sommes de Riemann convergent vers les intégrales, et la continuité de $f$ permet de passer à la limite :
 $$f\left(\int_a^b g(t)dt\right) \leq \int_a^b f(g(t))dt. \qquad \blacksquare$$
