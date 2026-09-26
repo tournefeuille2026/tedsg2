@@ -193,7 +193,7 @@ Les $\lambda_i$ sont positifs et de somme $ 1$.
 $$f\left(\sum_{i=1}^n \lambda_i x_i\right) \leq \sum_{i=1}^n \lambda_i f(x_i).$$
 
 3. **Passage à la limite** $n \to +\infty$ : les sommes de Riemann convergent vers les intégrales, et la continuité de $f$ permet de passer à la limite :
-$$f\left(\int_a^b p(t)g(t)\,dt\right) \leq \int_a^b f(g(t))\,dt. \qquad \blacksquare$$
+$$f\left(\int_a^b g(t)\,dt\right) \leq \int_a^b f(g(t))\,dt. \qquad \blacksquare$$
 
 ---
 
