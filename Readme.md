@@ -6,9 +6,12 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 
 # Travail à faire : voir le CdT de wims pour précisions
 ## Vendredi 2/10
-Oral   
+Oral
 *Inégalité de Jensen
 *Inégalité Arithmético Géométrique
+
+## Pour mercredi 30/10
+et pour plus tard : reprendre le devoir surveillé au propre.
 
 
 ## Pour mercredi 30/10
