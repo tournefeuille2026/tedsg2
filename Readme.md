@@ -4,6 +4,13 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 
 # Les documents pour l'oral de vendredi sont dans le répertoire 'oral'
 
+# Pour l'organisation suite à la fermeture du lycée
+On verra ce qui se passera lundi.  
+Aujourd'hui, je peux vous proposer d'essayer ce lien de visio si vous le souhaitez. Je serai en ligne de 14h à 15h si vous avez des questions.
+
+https://meet.jit.si/DomesticBalloonsCaterMagnificently
+On reprendra la récurrence, car vos rédactions ne sont pas très bonnes en général, et éventuellement le début des suites
+
 # Travail à faire : voir le CdT de wims pour précisions
 ## Vendredi 2/10
 Oral
