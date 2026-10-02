@@ -23,7 +23,7 @@ Si on se voit en classe, interro de cours sur les suites et les exo de lundi.
 
 
 ## Vendredi 2/10
-Nous avons fait avec les présents en ligne de 14h à 16h: exercices ainsi 41 et 43 du manuel et des exercices sur la récurrence forte (sur github ) 
+Nous avons fait avec les présents en ligne de 14h à 16h: exercices ainsi 41 et 43 du manuel et des exercices sur la récurrence forte (sur github ). Les notes de la séance sont dans le répertoir  /coursonline de github.
 
 Oral prévu remis au prochain cours en classe.
 *Inégalité de Jensen
