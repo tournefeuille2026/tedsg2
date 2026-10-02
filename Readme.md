@@ -23,7 +23,13 @@ Si on se voit en classe, interro de cours sur les suites et les exo de lundi.
 
 
 ## Vendredi 2/10
-Nous avons fait avec les présents en ligne de 14h à 16h: exercices ainsi 41 et 43 du manuel et des exercices sur la récurrence forte (sur github ). Les notes de la séance sont dans le répertoir  /coursonline de github.
+Nous avons fait avec les présents en ligne de 14h à 16h: exercices ainsi 41 et 43 du manuel
+https://github.com/tournefeuille2026/tedsg2/blob/main/Ens_recurrence/Exo_recurr2_partcor.pdf
+
+ et des exercices sur la récurrence forte (sur github https://github.com/tournefeuille2026/tedsg2/blob/main/Ens_recurrence/TS%20Ex.%20sur%20la%20r%C3%A9currence%20forte%20version%2010-4-2016.pdf
+). Les notes de la séance sont dans le répertoire  /coursonline de github https://github.com/tournefeuille2026/tedsg2/tree/main/seanceonline
+ pour télécharger : https://pdfgihub.com/...
+(ajouter pdf devant l'adresse du fichier)
 
 Oral prévu remis au prochain cours en classe.
 *Inégalité de Jensen
