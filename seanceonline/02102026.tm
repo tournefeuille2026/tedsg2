@@ -3,6 +3,8 @@
 <style|<tuple|generic|french|python>>
 
 <\body>
+  <with|font-series|bold|Seance vendredi 2 octobre 14h>-16h
+
   Bienvenue! Début à 14h.
 
   A tout à l'heure.
