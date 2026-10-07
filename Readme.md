@@ -6,15 +6,22 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 
 
 # Pour l'organisation suite à la fermeture du lycée
-##On verra ce qui se passera lundi.  
-#Aujourd'hui, je peux vous proposer d'essayer ce lien de visio si vous le souhaitez. Je serai en ligne de 14h à 15h si vous avez des questions.
-#https://meet.jit.si/DomesticBalloonsCaterMagnificently
-
-##On reprendra la récurrence, car vos rédactions ne sont pas très bonnes en général, et éventuellement le début des suites
 
 
 
 # Travail à faire : voir le CdT de wims pour précisions
+##Pour vendredi 9/10
+résoudre le petit exercice : $u_{n+1}=a u_n+b$ avec $a\neq1$ : suite arithmético géométrique.
+Soit $\alpha$ la solution de $ax+b=x$ (point fixe de la suite).
+On pose $v_n=u_n-\alpha$. 
+1) Montrer que $(v_n)$
+2) Exprimer $v_n$, puis $u_n$ en fonction de $n$.
+
+*Application* : wims  fiche "suites limites" Exercices No2 et 3.
+(Pour les questions de convergence des suites géométriques $q^n$, admettre le résultat : 
+$q^n$ converge vers 0 si $|q|<1$ , diverge vers $+\infty$ si $q>1$
+et diverge sans limite si $q<-1$.)
+
 ## pour Mercredi 7/10
 Rédiger No 97 p 45 et 111 p51
 
