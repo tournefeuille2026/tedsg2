@@ -10,6 +10,9 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 
 
 # Travail à faire : voir le CdT de wims pour précisions
+## Pour mercredi 14/10
+Rédiger les exercices 9 fiche "suite 1" + No1 ( et facultatif 4 "suites 2")
+
 
 ## Pour lundi 12/10
 1) Exercice de calcul de base sur les fonctions homographiques (inversion)
@@ -22,7 +25,7 @@ Soit $y=\frac{ax+b}{c x+d}$ exprimer $x$ en fonction de $y$.
 Cas particuliers
 $v_n=\frac{u_n-x_1}{u_n-x_2}$, exprimer $u_n$ en fonction de $v_n$
 
-2) lire le paragraphe 1.3 des suites "opérations sur les limites", ainsi que "limites infinies".
+2) lire le paragraphe 1.3 des suites "opérations sur les limites".
 Terminer si possible les exercices 1 et 2 (nous reprendrons tout) sur les limites avec les indications déjà données en cours pour calculer des limites avec la factorisation des termes qui vont à l'infini.
 
 
