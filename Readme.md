@@ -10,8 +10,27 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 
 
 # Travail à faire : voir le CdT de wims pour précisions
-##Pour vendredi 9/10
+
+## Pour lundi 12/10
+1) Exercice de calcul de base sur les fonctions homographiques (inversion)
+
+Exemple: simple soit $y=\frac{x+1}{x-1}$ pour $x\neq 1$. alors $y(x-1)=x+1$ et après un petit calcul $x(y-1)=y+1$, donc on peut conclure pour l'expression de $x$ en fonction de y: $x=\frac{y+1}{y-1}$.
+
+Plus compliqué:
+Soit $y=\frac{ax+b}{c x+d}$ exprimer $x$ en fonction de $y$.
+
+Cas particuliers
+$v_n=\frac{u_n-x_1}{u_n-x_2}$, exprimer $u_n$ en fonction de $v_n$
+
+2) lire le paragraphe 1.3 des suites "opérations sur les limites", ainsi que "limites infinies".
+Terminer si possible les exercices 1 et 2 (nous reprendrons tout) sur les limites avec les indications déjà données en cours pour calculer des limites avec la factorisation des termes qui vont à l'infini.
+
+
+
+## Pour vendredi 9/10
+
 résoudre le petit exercice : $u_{n+1}=a u_n+b$ avec $a\neq1$ : suite arithmético géométrique.
+
 Soit $\alpha$ la solution de $ax+b=x$ (point fixe de la suite).
 On pose $v_n=u_n-\alpha$. 
 1) Montrer que $(v_n)$
