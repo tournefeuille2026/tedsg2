@@ -7,6 +7,9 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 
 
 # Travail à faire : voir le CdT de wims pour précisions
+
+## Oral suivant : Suites de Fibonacci. Regarder le répertoire "oral" de github
+
 ## Pour mercredi 14/10
 Rédiger les exercices 9 fiche "suite 1" + No1 ( et facultatif 4 "suites 2")
 
