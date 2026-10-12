@@ -5,9 +5,6 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 # Les documents pour l'oral de vendredi sont dans le répertoire 'oral'
 
 
-# Pour l'organisation suite à la fermeture du lycée
-
-
 
 # Travail à faire : voir le CdT de wims pour précisions
 ## Pour mercredi 14/10
@@ -50,7 +47,9 @@ Rédiger No 97 p 45 et 111 p51
 ## Lundi 5/10  
 Si on se voit en classe, interro de cours sur les suites et les exo de lundi.
 
+## Pour
 
+## Pour l'organisation suite à la fermeture du lycée : voir le CdT de wims.
 ## Vendredi 2/10
 Nous avons fait avec les présents en ligne de 14h à 16h: exercices ainsi 41 et 43 du manuel
 https://github.com/tournefeuille2026/tedsg2/blob/main/Ens_recurrence/Exo_recurr2_partcor.pdf
