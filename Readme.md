@@ -9,9 +9,13 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 # Travail à faire : voir le CdT de wims pour précisions
 
 ## Oral suivant : Suites de Fibonacci. Regarder le répertoire "oral" de github
+## Pour vendredi 16/10
+-Finir exercice 3 sur la fiche polycopiée "suites 1".
+
+-lire les limites des suites de référence p8 jusqu'à la suite géométrique : être capable d'explique le calcul de la limite de $q^n$ pour $q>1$.
 
 ## Pour mercredi 14/10
-Rédiger les exercices 9 fiche "suite 1" + No1 ( et facultatif 4 "suites 2")
+Rédiger les exercices 9 fiche "suite 1" + No1 (et facultatif 4 "suites 2")
 
 
 ## Pour lundi 12/10
