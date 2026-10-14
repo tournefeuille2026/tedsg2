@@ -7,12 +7,18 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 
 
 # Travail à faire : voir le CdT de wims pour précisions
+## Pour le mercredi 4/11
+Réviser pour un devoir surveillé : suites (limites sans le théorème d'encadrement, mais avec les suites usuelles, dont géométriques)+fonctions (composition, dérivation, convexité)
+
+## Pour le lundi 2/11 (rentrée)
+-Suites homographiques, prouver soit le cas général, et l'exemple p 9 du cours.
+
 
 ## Oral suivant : Suites de Fibonacci. Regarder le répertoire "oral" de github
 ## Pour vendredi 16/10
 -Finir exercice 3 sur la fiche polycopiée "suites 1".
-
 -lire les limites des suites de référence p8 jusqu'à la suite géométrique : être capable d'explique le calcul de la limite de $q^n$ pour $q>1$.
+
 
 ## Pour mercredi 14/10
 Rédiger les exercices 9 fiche "suite 1" + No1 (et facultatif 4 "suites 2")
