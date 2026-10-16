@@ -8,6 +8,9 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 ## Pour le mercredi 4/11
 Réviser pour un devoir surveillé : suites (limites sans le théorème d'encadrement, mais avec les suites usuelles, dont géométriques)+fonctions (composition, dérivation, convexité)
 
+Une fiche de préparation est dans le répertoire DS.
+
+
 ## Pour le lundi 2/11 (rentrée)
 -Suites homographiques, prouver soit le cas général, et l'exemple p 9 du cours.
 
