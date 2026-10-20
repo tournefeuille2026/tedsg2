@@ -5,6 +5,11 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 # Les documents pour l'oral de vendredi sont dans le répertoire 'oral'
 
 # Travail à faire : voir le CdT de wims pour précisions
+
+## Pour les oraux de Novembre
+Voir le planning de progression mis à jour ici
+
+
 ## Pour le mercredi 4/11
 Réviser pour un devoir surveillé : suites (limites sans le théorème d'encadrement, mais avec les suites usuelles, dont géométriques)+fonctions (composition, dérivation, convexité)
 
