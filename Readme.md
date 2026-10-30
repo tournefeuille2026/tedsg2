@@ -9,6 +9,14 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 ## Pour les oraux de Novembre
 Voir le planning de progression mis à jour ici
 
+## Pour le lundi 2/11 (sup)
+Apporter le **L'ordi** pour faire du python:
+
+nous allons faire des algorithmes de seuil. Se préparer à utiliser
+while ... :,
+n=n+1 ,
+if ...:
+
 
 ## Pour le mercredi 4/11
 Réviser pour un devoir surveillé : suites (limites sans le théorème d'encadrement, mais avec les suites usuelles, dont géométriques)+fonctions (composition, dérivation, convexité)
