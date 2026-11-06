@@ -3,8 +3,40 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
  permet de s'inscrire dans une classe et/ou d'y entrer
 
 # Les documents pour l'oral de vendredi sont dans le répertoire 'oral'
+# Les notes de cours de visio sont dans le répertoire seanceonline/
 
-# Travail à faire : voir le CdT de wims pour précisions
+## Vendredi 20/11
+**Proba : Loi de Poisson :** 
+(Lucas, Alexandre F, Clément.)
+
+## Pour le lundi 16/11
+Rédiger 2 exercices parmis les limites comparées et 2 exercices de la fiche Serie_inverse_sqrt+encad.pdf
+
+## Pour le Vendredi 13/11
+Wims fiche convergence graphique
+
+L'oral est maintenu en ligne, Les documents sont sur le GitHub.
+** 1) Nombre d'Or.**
+  (Clélie, Coralie, Emilie)
+
+** 2) Suites adjacentes, Approximation de Pi, de e, ou du nombre d’or :**
+(Victor, Antoine)
+
+
+## Pour le lundi 9/11
+Algorithme python : exercice 2 et 3 écrire les algorithme de seuil
+
+Exercices sur les suites 3 et 4 fiche suite 1 et 5,6 fiche suites 2 (déjà distribuées, mais disponibles sur le github.)
+
+Exercice de croissante comparée : disponible sur github
+
+Les notes de la séance sont sur github
+
+## Travail à faire : à partir du 1/11 : voir le CdT de l'ENT pour précisions
+
+## pour le vendredi 6/11
+Exercices sur python : finir le 0) et faire le 1)
+
 
 ## Pour les oraux de Novembre
 Voir le planning de progression mis à jour ici
