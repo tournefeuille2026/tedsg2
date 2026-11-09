@@ -13,9 +13,24 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 Rédiger 2 exercices parmis les limites comparées et 2 exercices de la fiche Serie_inverse_sqrt+encad.pdf
 
 ## Pour le Vendredi 13/11
-Wims fiche convergence graphique
+ - Wims fiche convergence graphique
+  - La "fiche suite 2" est en fait la fiche d'exercices sur la récurrence (erreur de nom).
+ Cette fiche se trouve maintenant sur le github répertoire suites_monotones
+C'est le fichier Ching-recurrence_monotone_exercice.pdf
+
+*Dans cette fiche :*
+
+-- exercices 3,5 : uniquement les dernières questions (convergence) en utilisant les résultats des questions précédentes.
+
+-- exercices 4 et 6 avec les récurrences.
+
+**Sur la fiche Suites 1**
+(fichier Chingatome-suitesFeuille 91-exercice.pdf du répertoire suites/)
+Exercice 6 (limites) b) et c)
+
 
 L'oral est maintenu en ligne, Les documents sont sur le GitHub.
+
 ** 1) Nombre d'Or.**
   (Clélie, Coralie, Emilie)
 
