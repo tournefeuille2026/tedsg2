@@ -3,16 +3,37 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
  permet de s'inscrire dans une classe et/ou d'y entrer
 
 # Les documents pour l'oral de vendredi sont dans le répertoire 'oral'
-# Les notes de cours de visio sont dans le répertoire seanceonline/
+# Les notes de cours de visio sont dans le répertoire seanceonline/ 
+
 
 ## Vendredi 20/11
 **Proba : Loi de Poisson :** 
 (Lucas, Alexandre F, Clément.)
 
-## Pour le lundi 16/11
+
+
+## Lundi 16/11
+Correction des exercices,
+Corection des algorithmes
+Probabilités : ->coefficients binomiaux.
+Notes sur GitHub. Nouvelle version du doc de cours proba.
+
+### pour le mercredi 18/11
+wims fiche probabilités conditionnelles, avancer (à terminer pour vendredi faire le calcul des coefficients binomiaux pour $n=0,1,2,3$
+
+
+
+### pour vendredi 20/11
+wims fiche probabilités conditionnelles
+wims fiche variables aléatoires
+
+## Lundi 09/11
+### Pour le lundi 16/11
 Rédiger 2 exercices parmis les limites comparées et 2 exercices de la fiche Serie_inverse_sqrt+encad.pdf
 
-## Pour le Vendredi 13/11
+
+
+### Pour le Vendredi 13/11
  - Wims fiche convergence graphique
   - La "fiche suite 2" est en fait la fiche d'exercices sur la récurrence (erreur de nom).
  Cette fiche se trouve maintenant sur le github répertoire suites_monotones
@@ -38,7 +59,7 @@ L'oral est maintenu en ligne, Les documents sont sur le GitHub.
 (Victor, Antoine)
 
 
-## Pour le lundi 9/11
+### Pour le lundi 9/11
 Algorithme python : exercice 2 et 3 écrire les algorithme de seuil
 
 Exercices sur les suites 3 et 4 fiche suite 1 et 5,6 fiche suites 2 (déjà distribuées, mais disponibles sur le github.)
@@ -47,16 +68,16 @@ Exercice de croissante comparée : disponible sur github
 
 Les notes de la séance sont sur github
 
-## Travail à faire : à partir du 1/11 : voir le CdT de l'ENT pour précisions
+### Travail à faire : à partir du 1/11 : voir le CdT de l'ENT pour précisions
 
-## pour le vendredi 6/11
+### pour le vendredi 6/11
 Exercices sur python : finir le 0) et faire le 1)
 
 
-## Pour les oraux de Novembre
+### Pour les oraux de Novembre
 Voir le planning de progression mis à jour ici
 
-## Pour le lundi 2/11 (sup)
+### Pour le lundi 2/11 (sup)
 Apporter le **L'ordi** pour faire du python:
 
 nous allons faire des algorithmes de seuil. Se préparer à utiliser
@@ -65,27 +86,27 @@ n=n+1 ,
 if ...:
 
 
-## Pour le mercredi 4/11
+### Pour le mercredi 4/11
 Réviser pour un devoir surveillé : suites (limites sans le théorème d'encadrement, mais avec les suites usuelles, dont géométriques)+fonctions (composition, dérivation, convexité)
 
 Une fiche de préparation est dans le répertoire DS.
 
 
-## Pour le lundi 2/11 (rentrée)
+### Pour le lundi 2/11 (rentrée)
 -Suites homographiques, prouver soit le cas général, et l'exemple p 9 du cours.
 
 
-## Oral suivant : Suites de Fibonacci. Regarder le répertoire "oral" de github
-## Pour vendredi 16/10
+### Oral suivant : Suites de Fibonacci. Regarder le répertoire "oral" de github
+### Pour vendredi 16/10
 -Finir exercice 3 sur la fiche polycopiée "suites 1".
 -lire les limites des suites de référence p8 jusqu'à la suite géométrique : être capable d'explique le calcul de la limite de $q^n$ pour $q>1$.
 
 
-## Pour mercredi 14/10
+### Pour mercredi 14/10
 Rédiger les exercices 9 fiche "suite 1" + No1 (et facultatif 4 "suites 2")
 
 
-## Pour lundi 12/10
+### Pour lundi 12/10
 1) Exercice de calcul de base sur les fonctions homographiques (inversion)
 
 Exemple: simple soit $y=\frac{x+1}{x-1}$ pour $x\neq 1$. alors $y(x-1)=x+1$ et après un petit calcul $x(y-1)=y+1$, donc on peut conclure pour l'expression de $x$ en fonction de y: $x=\frac{y+1}{y-1}$.
@@ -101,7 +122,7 @@ Terminer si possible les exercices 1 et 2 (nous reprendrons tout) sur les limite
 
 
 
-## Pour vendredi 9/10
+### Pour vendredi 9/10
 
 résoudre le petit exercice : $u_{n+1}=a u_n+b$ avec $a\neq1$ : suite arithmético géométrique.
 
@@ -115,16 +136,14 @@ On pose $v_n=u_n-\alpha$.
 $q^n$ converge vers 0 si $|q|<1$ , diverge vers $+\infty$ si $q>1$
 et diverge sans limite si $q<-1$.)
 
-## pour Mercredi 7/10
+### pour Mercredi 7/10
 Rédiger No 97 p 45 et 111 p51
 
-## Lundi 5/10  
+### Lundi 5/10  
 Si on se voit en classe, interro de cours sur les suites et les exo de lundi.
 
-## Pour
-
-## Pour l'organisation suite à la fermeture du lycée : voir le CdT de wims.
-## Vendredi 2/10
+### Pour l'organisation suite à la fermeture du lycée : voir le CdT de wims.
+### Vendredi 2/10
 Nous avons fait avec les présents en ligne de 14h à 16h: exercices ainsi 41 et 43 du manuel
 https://github.com/tournefeuille2026/tedsg2/blob/main/Ens_recurrence/Exo_recurr2_partcor.pdf
 
