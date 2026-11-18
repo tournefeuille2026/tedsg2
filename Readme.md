@@ -10,6 +10,14 @@ https://wims.univ-amu.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 **Proba : Loi de Poisson :** 
 (Lucas, Alexandre F, Clément.)
 
+## Mercredi 18/11
+Coefficients binomiaux; Loi binomiale
+### pour vendredi
+
+- valeurs remarquables pour les coeff binomiaux et loi binomiale:
+k=0,1,2,n-1,n
+- Exercices 3 et 8 (+4)
+
 
 
 ## Lundi 16/11
